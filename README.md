@@ -1,5 +1,6 @@
 # poke-man-fgo
-基于hoshinobot的戳一戳fgo集卡小游戏
+基于hoshinobot的戳一戳fgo集卡小游戏，此插件的代码是由@GWYOG 的pokemanpcr修改而成，将pcr头像替换成了fgo头像
+项目链接：https://github.com/GWYOG/GWYOG-Hoshino-plugins
 # 使用方法
 将此项目git clone到hoshino/modules目录下
 
